@@ -1,0 +1,4 @@
+usr/bin
+usr/share/prometheus/pushgateway/static
+var/lib/prometheus
+var/log/prometheus

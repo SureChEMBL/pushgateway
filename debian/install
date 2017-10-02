@@ -1,0 +1,2 @@
+resources/template.html usr/share/prometheus/pushgateway/
+resources/static/* usr/share/prometheus/pushgateway/static/
